@@ -1,0 +1,39 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built output
+dist/
+out/
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn error log
+yarn-error.log
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore macOS specific files
+*.swp
+*.swo
+*.DS_Store
+*.dmg
+*.app
+
+# Ignore Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore Linux specific files
+*~
