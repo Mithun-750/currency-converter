@@ -15,25 +15,13 @@ Thumbs.db
 # Ignore npm debug log
 npm-debug.log*
 
-# Ignore yarn error log
-yarn-error.log
-
 # Ignore Visual Studio Code settings
 .vscode/
 
 # Ignore JetBrains IDE settings
 .idea/
 
-# Ignore macOS specific files
-*.swp
-*.swo
-*.DS_Store
-*.dmg
-*.app
-
 # Ignore Windows specific files
 Thumbs.db
 Desktop.ini
-
-# Ignore Linux specific files
-*~
+setup.iss
